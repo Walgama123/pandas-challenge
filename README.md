@@ -1,35 +1,33 @@
-python-challenge
+Pandas Challenge
 Background
-In this assignment, you'll use the concepts you've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy
-Skilled applied 
-Consider what you've learned so far. You've learned how to import modules like csv. You’ve learned how to read and write files in various formats. You’ve learned how to store content in variables, lists, and dictionaries. You’ve learned how to iterate through basic data structures. And you’ve learned how to debug along the way. Using all that you've learned, try to break down your tasks into discrete mini-objectives.
-•	Import  python libraries (os,csv,collection) and get idea about usability of those 
-•	Create file path for the data sources
-•	Read and write to output files (csv,text)
-•	Learn hoe to store data in variables, list and dictionaries
-•	Iterate through basic data structures.
-PyBank Instructions
-In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
-Task completed
-•	The total number of months included in the dataset
-•	The net total amount of "Profit/Losses" over the entire period
-•	The changes in "Profit/Losses" over the entire period, and then the average of those changes
-•	The greatest increase in profits (date and amount) over the entire period
-•	The greatest decrease in profits (date and amount) over the entire period
-PyPoll Instructions
-In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
-Task completed
-•	The total number of votes cast
-•	A complete list of candidates who received votes
-•	The percentage of votes each candidate won
-•	The total number of votes each candidate won
-•	The winner of the election based on popular vote
+Purpose of this analysis is how the passing rates (independent variable) is depending on some given dependent variables. Analysis summary would help make strategic decisions regarding future school budgets and priorities.  
+Audience: Board of School and Mayor 
+Assumptions
+•	School budgets is equally distributed among subject material and other infrastructure for given two subjects math and reading.
+•	Syllabus and the talent pool is treated equally among all the schools.
+Areas analyzed
+  Key areas analyzed 
+      o	Average Math Score
+      o	Average Reading Score
+      o	Percentage of passing Math
+      o	Percentage of passing Reading
+      o	Overall percentage of passing both subjects 
+  Outputs 
+      o	District summary is a high-level snapshot of the district's key metrics.
+      o	School summary is a high-level snapshot of the school key metrics.
+      o	Highest and lowest school based on the overall performance.
+      o	Math score analysis for all the school for all the grades.
+      o	Reading score analysis for all the school for all the grades.
+      o	Overall performance by School Spending
+      o	Overall performance by School Size
+      o	Overall performance by School Type
+
+
 Folder structure and names
-Parent folder name :<>
-Resources folder : Resources
-Output folder	 :Analys 
-main.py (python program file) should be in the root of the parent folder 
+Parent folder name :PyCitySchools (PyCitySchools_starter (jupyter notebook program file) should be in the root of the parent folder 
+Resources folder : Resources (contains two csv source data  files)
+Summary  folder	 :Summary of the analysis 
+
 
 
 
