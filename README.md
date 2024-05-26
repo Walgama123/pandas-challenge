@@ -28,7 +28,7 @@ Analysis summary would help make strategic decisions regarding future school bud
 - Overall performance by School Spending
 - Overall performance by School Size
 - Overall performance by School Type
-- 
+
 ## Folder structure and names
 - Parent folder name :PyCitySchools (PyCitySchools_starter (jupyter notebook program file) should be in the root of the parent folder 
 - Resources folder : Resources (contains two csv source data  files)
