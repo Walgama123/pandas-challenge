@@ -6,7 +6,9 @@ Purpose of this analysis is how the passing rates (independent variable) is depe
 
 Analysis summary would help make strategic decisions regarding future school budgets and priorities.
 
-## Audience: Board of School and Mayor 
+## Audience
+- Board of School and Mayor
+  
 ## Assumptions
 - School budgets is equally distributed among subject material and other infrastructure for given two subjects math and reading.
 - Syllabus and the talent pool is treated equally among all the schools.
