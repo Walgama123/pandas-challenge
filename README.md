@@ -12,11 +12,11 @@ Analysis summary would help make strategic decisions regarding future school bud
 - Syllabus and the talent pool is treated equally among all the schools.
 ## Areas analyzed
 - Key areas analyzed 
- -Average Math Score
- -Average Reading Score
- -Percentage of passing Math
- -Percentage of passing Reading
- -Overall percentage of passing both subjects
+  - Average Math Score
+  - Average Reading Score
+  - Percentage of passing Math
+  - Percentage of passing Reading
+  - Overall percentage of passing both subjects
   
 ## Outputs 
       o	District summary is a high-level snapshot of the district's key metrics.
