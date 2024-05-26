@@ -1,5 +1,5 @@
-Pandas Challenge
-Background
+# Pandas Challenge
+## Background
 Purpose of this analysis is how the passing rates (independent variable) is depending on some given dependent variables. Analysis summary would help make strategic decisions regarding future school budgets and priorities.  
 Audience: Board of School and Mayor 
 Assumptions
